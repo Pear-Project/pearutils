@@ -1,1 +1,19 @@
-# pearutils
+# pearutils v0.1 prerelease
+
+==============================================================
+Copyright (c) Alexandru Balan under the Pear Project. Theese 
+sourcefiles are licensed with GPL-v3 .All rights reserved.
+______________________________________________________________
+
+Q. How to compile?
+A. Each c sourcefile one by one
+
+Q. Will you add a makefile to compile all at once?
+A. Ofc yes.
+
+Q. Will you post prebuild deb/txz package?
+A. Yes. I kinda want to make my own package manager, so stay
+   tuned.
+   
+Q. I have more questions, where to ask?
+A. Contact me on Discord: alxb421#4330
